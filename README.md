@@ -1,5 +1,13 @@
 <img src="icon.svg" alt="Firefox GNOME theme" width="128" align="left"/>
 
+## Modified fork, added personal `user.js` preferences
+Added by default on:
+```js
+user_pref("gnomeTheme.hideSingleTab", true);
+user_pref("gnomeTheme.normalWidthTabs", true);
+user_pref("gnomeTheme.tabsAsHeaderbar", true);
+```
+
 # Firefox GNOME theme
 
 [![GitHub](https://img.shields.io/github/license/rafaelmardojai/firefox-gnome-theme.svg)](https://github.com/rafaelmardojai/firefox-gnome-theme/blob/master/LICENSE)
