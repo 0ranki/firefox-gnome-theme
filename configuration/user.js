@@ -17,3 +17,7 @@ user_pref("browser.theme.dark-private-windows", false);
 // Enable rounded bottom window corners
 user_pref("widget.gtk.rounded-bottom-corners.enabled", true);
 
+// Personal additions
+user_pref("gnomeTheme.hideSingleTab", true);
+user_pref("gnomeTheme.normalWidthTabs", true);
+user_pref("gnomeTheme.tabsAsHeaderbar", true);
